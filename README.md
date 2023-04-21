@@ -3,3 +3,5 @@
 - Gr8_CAH_rapport.pdf : Le rapport sur l'algorithme de classification hiérarchique ascendante (CAH)
 
 - Gr8_CAH_presentation.pdf : Le fichier de la présentation de cet algorithme
+
+- Mall_Customers.csv : dataset utilisé dans le code 'CAH.ipynb'
